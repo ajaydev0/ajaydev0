@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ajay Dev
 #### I am Flutter Developer
-![I am Flutter Developer](https://www.anques.com/wp-content/uploads/2021/11/Flutter-development.jpg)
+
 
 I'm a Front-End developer in Flutter. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.
 
