@@ -1,4 +1,4 @@
-### Hi 👋, i'am Ajay Dev
+### Hi 👋, I'm Ajay Dev
 ## I am Flutter Developer
 
 
