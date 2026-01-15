@@ -4,7 +4,7 @@
 
 I am a Flutter Developer driven by the challenge of solving real-world problems through clean, efficient code. My approach is inherently strategic—I work with the "big picture" in mind to ensure quality and scalability. Beyond development, I am a passionate advocate for open knowledge sharing, regularly contributing to the community to help others grow. Let’s build something impactful together.
 
-Skills: Flutter/ GetX / Bloc / Firebase
+Skills: Flutter/ GetX / Bloc / Riverpod 
 
 - 🔭 I’m currently working on GreatBro IT 
 - 🌱 I’m currently learning Bloc, Severpod 
