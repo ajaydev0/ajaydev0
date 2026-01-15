@@ -2,7 +2,7 @@
 ## Flutter Developer Form Bangaldesh
 
 
-I'm a Front-End developer in Flutter. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal- oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication.
+I am a Flutter Developer driven by the challenge of solving real-world problems through clean, efficient code. My approach is inherently strategic—I work with the "big picture" in mind to ensure quality and scalability. Beyond development, I am a passionate advocate for open knowledge sharing, regularly contributing to the community to help others grow. Let’s build something impactful together.
 
 Skills: Flutter/ GetX / Bloc / Firebase
 
